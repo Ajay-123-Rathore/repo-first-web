@@ -6,5 +6,6 @@ public class StudentEntity {
 	private String firstName;
 	private String lastName;
 	private String mobileNo;
-
+	private String address;
+	
 }
